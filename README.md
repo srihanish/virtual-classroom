@@ -19,10 +19,4 @@ Emagister is a remote education android app that resolves all the quandary verba
 
 <img src="https://github.com/lukefire5156/TEAM-BruteForce---Crack-the-Covid-19-Crisis-Hackathon/blob/master/ScreenShots/Screenshot_20200524-161511.png" width="450" height="650">
 <img src="https://github.com/lukefire5156/TEAM-BruteForce---Crack-the-Covid-19-Crisis-Hackathon/blob/master/ScreenShots/Screenshot_20200524-161529.png" width="450" height="650"> 
-<img src="https://github.com/lukefire5156/TEAM-BruteForce---Crack-the-Covid-19-Crisis-Hackathon/blob/master/ScreenShots/Screenshot_20200524-161545.png" width="450" height="650">
-<img src="https://github.com/lukefire5156/TEAM-BruteForce---Crack-the-Covid-19-Crisis-Hackathon/blob/master/ScreenShots/Screenshot_20200524-161550.png" width="450" height="650">
-<img src="https://github.com/lukefire5156/TEAM-BruteForce---Crack-the-Covid-19-Crisis-Hackathon/blob/master/ScreenShots/Screenshot_20200524-161601.png" width="450" height="650">
-<img src="https://github.com/lukefire5156/TEAM-BruteForce---Crack-the-Covid-19-Crisis-Hackathon/blob/master/ScreenShots/Screenshot_20200524-161611.png" width="450" height="650">
-<img src="https://github.com/lukefire5156/TEAM-BruteForce---Crack-the-Covid-19-Crisis-Hackathon/blob/master/ScreenShots/Screenshot_20200524-161625.png" width="450" height="650">
-<img src="https://github.com/lukefire5156/TEAM-BruteForce---Crack-the-Covid-19-Crisis-Hackathon/blob/master/ScreenShots/Screenshot_20200524-161731.png" width="450" height="650">
-<img src="https://github.com/lukefire5156/TEAM-BruteForce---Crack-the-Covid-19-Crisis-Hackathon/blob/master/ScreenShots/Screenshot_20200524-161800.png" width="450" height="650">
+
